@@ -1,6 +1,7 @@
 {
   "name": "controle_de_financas",
   "version": "0.1.0",
+  "homepage" : "./" ,
   "private": true,
   "dependencies": {
     "@babel/preset-env": "^7.20.2",
